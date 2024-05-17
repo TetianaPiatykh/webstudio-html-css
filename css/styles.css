@@ -1,0 +1,128 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.list {
+    list-style: none;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.logo-link {
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #2196F3;
+}
+
+.span-studio {
+    color: #000000;
+}
+
+.header-link {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.41px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #212121;
+    
+}
+
+.header-link:hover,
+.header-link:focus {
+
+    color: #2196F3;
+}
+
+.contact-link {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.41px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: #757575;
+}
+
+.contact-link:hover,
+.contact-link:focus {
+    color: #2196F3;
+}
+
+.hero {
+    background: #2F303A;
+}
+
+.hero-title {
+    font-family: Roboto;
+    font-size: 44px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 0.06em;
+    text-align: center;
+}
+
+.hero-btn {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0.06em;
+    text-align: center;
+    color: #FFFFFF;
+    background: #2196F3;
+    box-shadow: 0px 4px 4px 0px #00000026;
+    border-color: #2196F3;
+}
+
+.feature-item-title {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16.41px;
+    letter-spacing: 0.03em;
+    text-align: left;
+}
+
+.feature-item-text {
+    font-family: Roboto;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    text-align: left;
+}
+
+.about-title {
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42.19px;
+    letter-spacing: 0.03em;
+    text-align: center;
+}
+
+.team-item-title {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 18.75px;
+    letter-spacing: 0.03em;
+    text-align: center;
+}
+
+.team-item-text {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.75px;
+    letter-spacing: 0.03em;
+    text-align: center;
+}
